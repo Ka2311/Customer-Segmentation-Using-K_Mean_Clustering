@@ -2,6 +2,9 @@
 
 # Problem Statement:
 ![Problem Statement](Problem_Statement.png)
+
+The task is to apply K-means clustering to segment the customers of a shopping mall into distinct groups or clusters. Each cluster will represent a group of customers who share similar characteristics and behaviors.
+
 # Work Flow:
 ![Work Flow Image](Work_Flow.png)
 
