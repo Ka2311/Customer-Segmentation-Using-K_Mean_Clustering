@@ -31,6 +31,3 @@ Step-7: The model is ready.
 
 # Data Visualization:
 ![This is Visualization of K-Mean Clustring.](Visualization.png)
-
-
-
